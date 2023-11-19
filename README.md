@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rosen
+- 👀 I’m interested in Digital Marketing
+- 🌱 I’m currently learning Python for SEO
+- 💞️ I’m looking to collaborate on Python and Maerketing Projcts
+- 📫 How to reach me rossenxris@gmail.com
